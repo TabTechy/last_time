@@ -13,15 +13,18 @@ A simple, responsive Body Mass Index (BMI) calculator built using **HTML**, **CS
 - `CSS3`
 - `Javasript`
 
-##File Structure
+## File Structure
 last_time/
 ├── `index.html`
 ├── `style.css`
 ├── `script.js`
 └── `README.md`
 
-## Screenshot
-![bmi](image.png)
+## Screenshots
+![under_weight](image-1.png)
+![normal_weight](image.png)
+![overweight](image-3.png)
+![obesity](image-2.png)
 
 ## My Learnings
 - Git basics and remote setup 
@@ -34,5 +37,5 @@ last_time/
 - git remote add origin
 - git branch -M main
 - git add .
-- git commit -m "Initial commit"
+- git commit -m "commit message"
 - git push -u origin main
